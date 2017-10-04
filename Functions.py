@@ -14,7 +14,7 @@ def shuffleAndSort():
 
 
 #Normally, I understood that inversion of rows/columns had to be done
-#in the suffleAndSort. I did it in Reducer() to receive good coordinates
+#in the shuffleAndSort. I did it in Reducer() to receive good coordinates
 #and make the right inversed table.
 def reduce(K,V[]) :
     #At the entrance: K,V[] -> {y:{x, val}}
